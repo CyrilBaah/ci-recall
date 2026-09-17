@@ -1,0 +1,126 @@
+{
+  "source": "Apple iTunes Search API",
+  "fetched_at": "2026-09-17",
+  "episodes": [
+    {
+      "id": "1000790016198",
+      "podcast_id": "syntax",
+      "title": "1039: Should You Quit Your Job?",
+      "duration_minutes": 61,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/1039-should-you-quit-your-job/id1253186678?i=1000790016198"
+    },
+    {
+      "id": "1000789545448",
+      "podcast_id": "syntax",
+      "title": "1038: OpenAI Releases GPT 6 Astra",
+      "duration_minutes": 85,
+      "release_date": "2026-09-14",
+      "url": "https://podcasts.apple.com/us/podcast/1038-openai-releases-gpt-6-astra/id1253186678?i=1000789545448"
+    },
+    {
+      "id": "1000788665542",
+      "podcast_id": "syntax",
+      "title": "1037: WebMCP is here (and you should care)",
+      "duration_minutes": 56,
+      "release_date": "2026-09-09",
+      "url": "https://podcasts.apple.com/us/podcast/1037-webmcp-is-here-and-you-should-care/id1253186678?i=1000788665542"
+    },
+    {
+      "id": "1000788290606",
+      "podcast_id": "syntax",
+      "title": "1036: Cursor & OpenAI Break Up",
+      "duration_minutes": 72,
+      "release_date": "2026-09-07",
+      "url": "https://podcasts.apple.com/us/podcast/1036-cursor-openai-break-up/id1253186678?i=1000788290606"
+    },
+    {
+      "id": "1000787401197",
+      "podcast_id": "syntax",
+      "title": "1035: Why everyone is moving to Stylex?",
+      "duration_minutes": 27,
+      "release_date": "2026-09-02",
+      "url": "https://podcasts.apple.com/us/podcast/1035-why-everyone-is-moving-to-stylex/id1253186678?i=1000787401197"
+    },
+    {
+      "id": "1000789964322",
+      "podcast_id": "song-exploder",
+      "title": "Natalie Merchant - Sister Tilly",
+      "duration_minutes": 25,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/natalie-merchant-sister-tilly/id788236947?i=1000789964322"
+    },
+    {
+      "id": "1000788715895",
+      "podcast_id": "song-exploder",
+      "title": "Paula Cole - I Don't Want to Wait",
+      "duration_minutes": 29,
+      "release_date": "2026-09-09",
+      "url": "https://podcasts.apple.com/us/podcast/paula-cole-i-dont-want-to-wait/id788236947?i=1000788715895"
+    },
+    {
+      "id": "1000784371953",
+      "podcast_id": "song-exploder",
+      "title": "Charli XCX - Camera",
+      "duration_minutes": 23,
+      "release_date": "2026-08-19",
+      "url": "https://podcasts.apple.com/us/podcast/charli-xcx-camera/id788236947?i=1000784371953"
+    },
+    {
+      "id": "1000780103162",
+      "podcast_id": "song-exploder",
+      "title": "Mitski - Your Best American Girl",
+      "duration_minutes": 15,
+      "release_date": "2026-08-05",
+      "url": "https://podcasts.apple.com/us/podcast/mitski-your-best-american-girl/id788236947?i=1000780103162"
+    },
+    {
+      "id": "1000777886394",
+      "podcast_id": "song-exploder",
+      "title": "Suki Waterhouse - Back in Love",
+      "duration_minutes": 23,
+      "release_date": "2026-07-22",
+      "url": "https://podcasts.apple.com/us/podcast/suki-waterhouse-back-in-love/id788236947?i=1000777886394"
+    },
+    {
+      "id": "1000789073911",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "756a Resurrecting Roman Rubble; Plovdiv Bulgaria; European Travel Serendipity",
+      "duration_minutes": 52,
+      "release_date": "2026-09-12",
+      "url": "https://podcasts.apple.com/us/podcast/756a-resurrecting-roman-rubble-plovdiv-bulgaria-european/id79063354?i=1000789073911"
+    },
+    {
+      "id": "1000787894585",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "839 Circumambulating with Nicos; South Pacific Islands",
+      "duration_minutes": 52,
+      "release_date": "2026-09-05",
+      "url": "https://podcasts.apple.com/us/podcast/839-circumambulating-with-nicos-south-pacific-islands/id79063354?i=1000787894585"
+    },
+    {
+      "id": "1000786537699",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "746a Goodbye Eastern Europe; The Long Field in Wales",
+      "duration_minutes": 52,
+      "release_date": "2026-08-29",
+      "url": "https://podcasts.apple.com/us/podcast/746a-goodbye-eastern-europe-the-long-field-in-wales/id79063354?i=1000786537699"
+    },
+    {
+      "id": "1000784878632",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "838 Music Lover's Guide to North America; Loving the Opera",
+      "duration_minutes": 52,
+      "release_date": "2026-08-22",
+      "url": "https://podcasts.apple.com/us/podcast/838-music-lovers-guide-to-north-america-loving-the-opera/id79063354?i=1000784878632"
+    },
+    {
+      "id": "1000783349562",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "837 America Obscura; This Land Is Your Land",
+      "duration_minutes": 52,
+      "release_date": "2026-08-15",
+      "url": "https://podcasts.apple.com/us/podcast/837-america-obscura-this-land-is-your-land/id79063354?i=1000783349562"
+    }
+  ]
+}

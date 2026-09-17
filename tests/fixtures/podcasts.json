@@ -1,0 +1,30 @@
+{
+  "source": "Apple iTunes Search API",
+  "fetched_at": "2026-09-17",
+  "podcasts": [
+    {
+      "id": "syntax",
+      "name": "Syntax - Tasty Web Development Treats",
+      "publisher": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
+      "genre": "technology",
+      "url": "https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678",
+      "feed_url": "https://feeds.megaphone.fm/FSI1483080183"
+    },
+    {
+      "id": "song-exploder",
+      "name": "Song Exploder",
+      "publisher": "Hrishikesh Hirway",
+      "genre": "music",
+      "url": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947",
+      "feed_url": "https://feed.songexploder.net/SongExploder"
+    },
+    {
+      "id": "travel-with-rick-steves",
+      "name": "Travel with Rick Steves",
+      "publisher": "Rick Steves",
+      "genre": "travel",
+      "url": "https://podcasts.apple.com/us/podcast/travel-with-rick-steves/id79063354",
+      "feed_url": "http://www.ricksteves.com/rss/podcast"
+    }
+  ]
+}
