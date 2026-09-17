@@ -1,0 +1,70 @@
+{
+  "source": "Apple iTunes Search API",
+  "fetched_at": "2026-09-17",
+  "podcasts": [
+    {
+      "id": "short-wave",
+      "name": "Short Wave",
+      "publisher": "NPR",
+      "genre": "science",
+      "url": "https://podcasts.apple.com/us/podcast/short-wave/id1482575855",
+      "feed_url": "https://feeds.npr.org/510351/podcast.xml"
+    },
+    {
+      "id": "planet-money",
+      "name": "Planet Money",
+      "publisher": "NPR",
+      "genre": "business",
+      "url": "https://podcasts.apple.com/us/podcast/planet-money/id290783428",
+      "feed_url": "https://feeds.npr.org/510289/podcast.xml"
+    },
+    {
+      "id": "syntax",
+      "name": "Syntax - Tasty Web Development Treats",
+      "publisher": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
+      "genre": "technology",
+      "url": "https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678",
+      "feed_url": "https://feeds.megaphone.fm/FSI1483080183"
+    },
+    {
+      "id": "the-sporkful",
+      "name": "The Sporkful",
+      "publisher": "Dan Pashman",
+      "genre": "food",
+      "url": "https://podcasts.apple.com/us/podcast/the-sporkful/id350709629",
+      "feed_url": "https://feeds.simplecast.com/n91GPFY5"
+    },
+    {
+      "id": "song-exploder",
+      "name": "Song Exploder",
+      "publisher": "Hrishikesh Hirway",
+      "genre": "music",
+      "url": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947",
+      "feed_url": "https://feed.songexploder.net/SongExploder"
+    },
+    {
+      "id": "travel-with-rick-steves",
+      "name": "Travel with Rick Steves",
+      "publisher": "Rick Steves",
+      "genre": "travel",
+      "url": "https://podcasts.apple.com/us/podcast/travel-with-rick-steves/id79063354",
+      "feed_url": "http://www.ricksteves.com/rss/podcast"
+    },
+    {
+      "id": "conan-obrien-needs-a-friend",
+      "name": "Conan O\u2019Brien Needs A Friend",
+      "publisher": "Team Coco & Earwolf",
+      "genre": "comedy",
+      "url": "https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347",
+      "feed_url": "https://feeds.simplecast.com/dHoohVNH"
+    },
+    {
+      "id": "the-athletic-fc-podcast",
+      "name": "The Athletic FC Podcast",
+      "publisher": "The Athletic",
+      "genre": "sport",
+      "url": "https://podcasts.apple.com/us/podcast/the-athletic-fc-podcast/id1488521447",
+      "feed_url": "https://feeds.acast.com/public/shows/6818be7d1d28d62313ac8ef3"
+    }
+  ]
+}

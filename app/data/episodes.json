@@ -1,0 +1,326 @@
+{
+  "source": "Apple iTunes Search API",
+  "fetched_at": "2026-09-17",
+  "episodes": [
+    {
+      "id": "1000789876166",
+      "podcast_id": "short-wave",
+      "title": "When batteries get a facelift, so does renewable energy",
+      "duration_minutes": 13,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/when-batteries-get-a-facelift-so-does-renewable-energy/id1482575855?i=1000789876166"
+    },
+    {
+      "id": "1000788375362",
+      "podcast_id": "short-wave",
+      "title": "How hurricanes triggered lizard evolution",
+      "duration_minutes": 11,
+      "release_date": "2026-09-08",
+      "url": "https://podcasts.apple.com/us/podcast/how-hurricanes-triggered-lizard-evolution/id1482575855?i=1000788375362"
+    },
+    {
+      "id": "1000788191466",
+      "podcast_id": "short-wave",
+      "title": "When is your brain actually 'adult'?",
+      "duration_minutes": 14,
+      "release_date": "2026-09-07",
+      "url": "https://podcasts.apple.com/us/podcast/when-is-your-brain-actually-adult/id1482575855?i=1000788191466"
+    },
+    {
+      "id": "1000784672388",
+      "podcast_id": "short-wave",
+      "title": "The science of emotional regulation \u2014 and how to do it better",
+      "duration_minutes": 12,
+      "release_date": "2026-09-02",
+      "url": "https://podcasts.apple.com/us/podcast/the-science-of-emotional-regulation-and-how-to-do-it-better/id1482575855?i=1000784672388"
+    },
+    {
+      "id": "1000787054085",
+      "podcast_id": "short-wave",
+      "title": "What can seashells teach us about the health of our oceans?",
+      "duration_minutes": 13,
+      "release_date": "2026-09-01",
+      "url": "https://podcasts.apple.com/us/podcast/what-can-seashells-teach-us-about-the-health-of-our-oceans/id1482575855?i=1000787054085"
+    },
+    {
+      "id": "1000789852967",
+      "podcast_id": "planet-money",
+      "title": "How investing is getting riskier (Two Indicators)",
+      "duration_minutes": 18,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/how-investing-is-getting-riskier-two-indicators/id290783428?i=1000789852967"
+    },
+    {
+      "id": "1000789070345",
+      "podcast_id": "planet-money",
+      "title": "The loan at the heart of a new foreclosure crisis",
+      "duration_minutes": 29,
+      "release_date": "2026-09-11",
+      "url": "https://podcasts.apple.com/us/podcast/the-loan-at-the-heart-of-a-new-foreclosure-crisis/id290783428?i=1000789070345"
+    },
+    {
+      "id": "1000788558743",
+      "podcast_id": "planet-money",
+      "title": "Cost-cutting, quiet guilt and the inflation generation",
+      "duration_minutes": 24,
+      "release_date": "2026-09-09",
+      "url": "https://podcasts.apple.com/us/podcast/cost-cutting-quiet-guilt-and-the-inflation-generation/id290783428?i=1000788558743"
+    },
+    {
+      "id": "1000787269660",
+      "podcast_id": "planet-money",
+      "title": "Love in the time of Palantir",
+      "duration_minutes": 26,
+      "release_date": "2026-09-02",
+      "url": "https://podcasts.apple.com/us/podcast/love-in-the-time-of-palantir/id290783428?i=1000787269660"
+    },
+    {
+      "id": "1000786573986",
+      "podcast_id": "planet-money",
+      "title": "Dolly Parton\u2019s \u201c9 to 5,\u201d the true story behind the anthem (bonus)",
+      "duration_minutes": 23,
+      "release_date": "2026-08-30",
+      "url": "https://podcasts.apple.com/us/podcast/dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus/id290783428?i=1000786573986"
+    },
+    {
+      "id": "1000790016198",
+      "podcast_id": "syntax",
+      "title": "1039: Should You Quit Your Job?",
+      "duration_minutes": 61,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/1039-should-you-quit-your-job/id1253186678?i=1000790016198"
+    },
+    {
+      "id": "1000789545448",
+      "podcast_id": "syntax",
+      "title": "1038: OpenAI Releases GPT 6 Astra",
+      "duration_minutes": 85,
+      "release_date": "2026-09-14",
+      "url": "https://podcasts.apple.com/us/podcast/1038-openai-releases-gpt-6-astra/id1253186678?i=1000789545448"
+    },
+    {
+      "id": "1000788665542",
+      "podcast_id": "syntax",
+      "title": "1037: WebMCP is here (and you should care)",
+      "duration_minutes": 56,
+      "release_date": "2026-09-09",
+      "url": "https://podcasts.apple.com/us/podcast/1037-webmcp-is-here-and-you-should-care/id1253186678?i=1000788665542"
+    },
+    {
+      "id": "1000788290606",
+      "podcast_id": "syntax",
+      "title": "1036: Cursor & OpenAI Break Up",
+      "duration_minutes": 72,
+      "release_date": "2026-09-07",
+      "url": "https://podcasts.apple.com/us/podcast/1036-cursor-openai-break-up/id1253186678?i=1000788290606"
+    },
+    {
+      "id": "1000787401197",
+      "podcast_id": "syntax",
+      "title": "1035: Why everyone is moving to Stylex?",
+      "duration_minutes": 27,
+      "release_date": "2026-09-02",
+      "url": "https://podcasts.apple.com/us/podcast/1035-why-everyone-is-moving-to-stylex/id1253186678?i=1000787401197"
+    },
+    {
+      "id": "1000788912970",
+      "podcast_id": "the-sporkful",
+      "title": "Why Won\u2019t Anyone Invite Michael Pollan To Dinner? (Reheat)",
+      "duration_minutes": 36,
+      "release_date": "2026-09-11",
+      "url": "https://podcasts.apple.com/us/podcast/why-wont-anyone-invite-michael-pollan-to-dinner-reheat/id350709629?i=1000788912970"
+    },
+    {
+      "id": "1000786984394",
+      "podcast_id": "the-sporkful",
+      "title": "Does The World Need A Better Tomato?",
+      "duration_minutes": 41,
+      "release_date": "2026-08-31",
+      "url": "https://podcasts.apple.com/us/podcast/does-the-world-need-a-better-tomato/id350709629?i=1000786984394"
+    },
+    {
+      "id": "1000786518508",
+      "podcast_id": "the-sporkful",
+      "title": "The Single Mom Who Changed Myrtle Beach Dining Gets Her Due",
+      "duration_minutes": 18,
+      "release_date": "2026-08-28",
+      "url": "https://podcasts.apple.com/us/podcast/the-single-mom-who-changed-myrtle-beach-dining-gets-her-due/id350709629?i=1000786518508"
+    },
+    {
+      "id": "1000785508968",
+      "podcast_id": "the-sporkful",
+      "title": "Why Are People Hooked On A Fake Food Delivery App?",
+      "duration_minutes": 45,
+      "release_date": "2026-08-24",
+      "url": "https://podcasts.apple.com/us/podcast/why-are-people-hooked-on-a-fake-food-delivery-app/id350709629?i=1000785508968"
+    },
+    {
+      "id": "1000784863096",
+      "podcast_id": "the-sporkful",
+      "title": "Marcus Samuelsson Says French Cuisine Isn't The Gold Standard (Reheat)",
+      "duration_minutes": 32,
+      "release_date": "2026-08-21",
+      "url": "https://podcasts.apple.com/us/podcast/marcus-samuelsson-says-french-cuisine-isnt-the-gold/id350709629?i=1000784863096"
+    },
+    {
+      "id": "1000789964322",
+      "podcast_id": "song-exploder",
+      "title": "Natalie Merchant - Sister Tilly",
+      "duration_minutes": 25,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/natalie-merchant-sister-tilly/id788236947?i=1000789964322"
+    },
+    {
+      "id": "1000788715895",
+      "podcast_id": "song-exploder",
+      "title": "Paula Cole - I Don't Want to Wait",
+      "duration_minutes": 29,
+      "release_date": "2026-09-09",
+      "url": "https://podcasts.apple.com/us/podcast/paula-cole-i-dont-want-to-wait/id788236947?i=1000788715895"
+    },
+    {
+      "id": "1000784371953",
+      "podcast_id": "song-exploder",
+      "title": "Charli XCX - Camera",
+      "duration_minutes": 23,
+      "release_date": "2026-08-19",
+      "url": "https://podcasts.apple.com/us/podcast/charli-xcx-camera/id788236947?i=1000784371953"
+    },
+    {
+      "id": "1000780103162",
+      "podcast_id": "song-exploder",
+      "title": "Mitski - Your Best American Girl",
+      "duration_minutes": 15,
+      "release_date": "2026-08-05",
+      "url": "https://podcasts.apple.com/us/podcast/mitski-your-best-american-girl/id788236947?i=1000780103162"
+    },
+    {
+      "id": "1000777886394",
+      "podcast_id": "song-exploder",
+      "title": "Suki Waterhouse - Back in Love",
+      "duration_minutes": 23,
+      "release_date": "2026-07-22",
+      "url": "https://podcasts.apple.com/us/podcast/suki-waterhouse-back-in-love/id788236947?i=1000777886394"
+    },
+    {
+      "id": "1000789073911",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "756a Resurrecting Roman Rubble; Plovdiv Bulgaria; European Travel Serendipity",
+      "duration_minutes": 52,
+      "release_date": "2026-09-12",
+      "url": "https://podcasts.apple.com/us/podcast/756a-resurrecting-roman-rubble-plovdiv-bulgaria-european/id79063354?i=1000789073911"
+    },
+    {
+      "id": "1000787894585",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "839 Circumambulating with Nicos; South Pacific Islands",
+      "duration_minutes": 52,
+      "release_date": "2026-09-05",
+      "url": "https://podcasts.apple.com/us/podcast/839-circumambulating-with-nicos-south-pacific-islands/id79063354?i=1000787894585"
+    },
+    {
+      "id": "1000786537699",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "746a Goodbye Eastern Europe; The Long Field in Wales",
+      "duration_minutes": 52,
+      "release_date": "2026-08-29",
+      "url": "https://podcasts.apple.com/us/podcast/746a-goodbye-eastern-europe-the-long-field-in-wales/id79063354?i=1000786537699"
+    },
+    {
+      "id": "1000784878632",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "838 Music Lover's Guide to North America; Loving the Opera",
+      "duration_minutes": 52,
+      "release_date": "2026-08-22",
+      "url": "https://podcasts.apple.com/us/podcast/838-music-lovers-guide-to-north-america-loving-the-opera/id79063354?i=1000784878632"
+    },
+    {
+      "id": "1000783349562",
+      "podcast_id": "travel-with-rick-steves",
+      "title": "837 America Obscura; This Land Is Your Land",
+      "duration_minutes": 52,
+      "release_date": "2026-08-15",
+      "url": "https://podcasts.apple.com/us/podcast/837-america-obscura-this-land-is-your-land/id79063354?i=1000783349562"
+    },
+    {
+      "id": "1000787885979",
+      "podcast_id": "conan-obrien-needs-a-friend",
+      "title": "Taylor Tomlinson Returns Again",
+      "duration_minutes": 62,
+      "release_date": "2026-09-14",
+      "url": "https://podcasts.apple.com/us/podcast/taylor-tomlinson-returns-again/id1438054347?i=1000787885979"
+    },
+    {
+      "id": "1000786515988",
+      "podcast_id": "conan-obrien-needs-a-friend",
+      "title": "Matt Groening",
+      "duration_minutes": 65,
+      "release_date": "2026-09-07",
+      "url": "https://podcasts.apple.com/us/podcast/matt-groening/id1438054347?i=1000786515988"
+    },
+    {
+      "id": "1000785590887",
+      "podcast_id": "conan-obrien-needs-a-friend",
+      "title": "Summer S\u2019pouses Episode 6: The Spouses Reunited",
+      "duration_minutes": 20,
+      "release_date": "2026-09-03",
+      "url": "https://podcasts.apple.com/us/podcast/summer-spouses-episode-6-the-spouses-reunited/id1438054347?i=1000785590887"
+    },
+    {
+      "id": "1000784868060",
+      "podcast_id": "conan-obrien-needs-a-friend",
+      "title": "Andy Daly Returns",
+      "duration_minutes": 67,
+      "release_date": "2026-08-31",
+      "url": "https://podcasts.apple.com/us/podcast/andy-daly-returns/id1438054347?i=1000784868060"
+    },
+    {
+      "id": "1000784368722",
+      "podcast_id": "conan-obrien-needs-a-friend",
+      "title": "Summer S\u2019pouses Episode 5: The Spouses Alone",
+      "duration_minutes": 24,
+      "release_date": "2026-08-27",
+      "url": "https://podcasts.apple.com/us/podcast/summer-spouses-episode-5-the-spouses-alone/id1438054347?i=1000784368722"
+    },
+    {
+      "id": "1000790033955",
+      "podcast_id": "the-athletic-fc-podcast",
+      "title": "Are Liverpool adapting to Iraola?",
+      "duration_minutes": 39,
+      "release_date": "2026-09-16",
+      "url": "https://podcasts.apple.com/us/podcast/are-liverpool-adapting-to-iraola/id1488521447?i=1000790033955"
+    },
+    {
+      "id": "1000789792010",
+      "podcast_id": "the-athletic-fc-podcast",
+      "title": "Ornstein latest: Why are Spurs still struggling to score?",
+      "duration_minutes": 45,
+      "release_date": "2026-09-15",
+      "url": "https://podcasts.apple.com/us/podcast/ornstein-latest-why-are-spurs-still-struggling-to-score/id1488521447?i=1000789792010"
+    },
+    {
+      "id": "1000789554060",
+      "podcast_id": "the-athletic-fc-podcast",
+      "title": "Has Manchester derby defeat put Carrick under pressure?",
+      "duration_minutes": 40,
+      "release_date": "2026-09-14",
+      "url": "https://podcasts.apple.com/us/podcast/has-manchester-derby-defeat-put-carrick-under-pressure/id1488521447?i=1000789554060"
+    },
+    {
+      "id": "1000789258337",
+      "podcast_id": "the-athletic-fc-podcast",
+      "title": "What If... Wayne Rooney joined Manchester City in 2010?",
+      "duration_minutes": 50,
+      "release_date": "2026-09-13",
+      "url": "https://podcasts.apple.com/us/podcast/what-if-wayne-rooney-joined-manchester-city-in-2010/id1488521447?i=1000789258337"
+    },
+    {
+      "id": "1000789033070",
+      "podcast_id": "the-athletic-fc-podcast",
+      "title": "Tactical Preview: Man United v Man City + underlying data buys",
+      "duration_minutes": 39,
+      "release_date": "2026-09-11",
+      "url": "https://podcasts.apple.com/us/podcast/tactical-preview-man-united-v-man-city-underlying-data-buys/id1488521447?i=1000789033070"
+    }
+  ]
+}
