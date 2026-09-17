@@ -1,3 +1,4 @@
+CREATE EXTENSION IF NOT EXISTS vectorscale CASCADE;
 CREATE EXTENSION IF NOT EXISTS timescaledb_toolkit;
 
 CREATE SCHEMA IF NOT EXISTS ci_recall;
@@ -65,6 +66,29 @@ CREATE TABLE ci_recall.pipeline_steps (
   tsdb.segmentby = 'step_name',
   tsdb.orderby = 'started_at DESC'
 );
+
+CREATE TABLE ci_recall.failure_logs (
+  failed_at   TIMESTAMPTZ NOT NULL,
+  job_id      BIGINT      NOT NULL,
+  run_id      BIGINT      NOT NULL,
+  run_attempt INTEGER     NOT NULL,
+  workflow    TEXT        NOT NULL,
+  branch      TEXT        NOT NULL,
+  head_sha    TEXT        NOT NULL,
+  job_name    TEXT        NOT NULL,
+  step_name   TEXT,
+  excerpt     TEXT        NOT NULL,
+  embedding   VECTOR(384) NOT NULL,
+  UNIQUE (job_id, failed_at)
+) WITH (
+  tsdb.hypertable,
+  tsdb.partition_column = 'failed_at'
+);
+
+CALL remove_columnstore_policy('ci_recall.failure_logs');
+
+CREATE INDEX failure_logs_embedding_idx ON ci_recall.failure_logs
+  USING diskann (embedding vector_cosine_ops);
 
 CREATE TABLE ci_recall.deployments (
   deployed_at       TIMESTAMPTZ NOT NULL,
