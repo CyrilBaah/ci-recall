@@ -9,6 +9,8 @@ SECRETS = [
     (re.compile(r"\bAIza[0-9A-Za-z_\-]{30,}"), "***"),
     (re.compile(r"(?i)\b(password|passwd|pwd|token|secret|api[_-]?key)\s*[=:]\s*\S+"), r"\1=***"),
 ]
+NOISE = re.compile(r" PASSED\b|^(Requirement already satisfied|Collecting |Downloading |Using cached )")
+ERROR_SECTION = re.compile(r"^=+ (FAILURES|ERRORS) =+$|^Traceback \(most recent call last\)|^ERROR[: ]")
 MAX_LINES = 40
 MAX_CHARS = 3000
 
@@ -24,18 +26,24 @@ def mask_secrets(text: str) -> str:
     return text
 
 
+def focus(output: list[str]) -> list[str]:
+    """Drop passing-test and download noise, and start at the error section when there is one."""
+    output = [line for line in output if line and not line.startswith("##[") and not NOISE.search(line)]
+    start = next((i for i, line in enumerate(output) if ERROR_SECTION.search(line)), None)
+    return (output[start:] if start is not None else output)[-MAX_LINES:]
+
+
 def error_excerpt(raw_log: str) -> str:
-    """Return the output of the failing step up to its first error, without the step's command header."""
+    """Return the error output of the failing step, without the step's command header or noise."""
     lines = clean_lines(raw_log)
     error_at = next((i for i, line in enumerate(lines) if line.startswith("##[error]")), None)
     if error_at is None:
-        section = [line for line in lines if line and not line.startswith("##[")][-MAX_LINES:]
+        section = focus(lines)
     else:
         step_start = max((i for i in range(error_at) if lines[i].startswith("##[group]Run ")), default=0)
         body_start = next(
             (i + 1 for i in range(step_start, error_at) if lines[i].startswith("##[endgroup]")), step_start
         )
-        output = [line for line in lines[body_start:error_at] if line and not line.startswith("##[")]
         errors = [line.removeprefix("##[error]") for line in lines[error_at:] if line.startswith("##[error]")]
-        section = output[-MAX_LINES:] + errors
+        section = focus(lines[body_start:error_at]) + errors
     return mask_secrets("\n".join(section))[-MAX_CHARS:]
