@@ -51,10 +51,9 @@ class Catalogue:
         return [e for _, e in ranked]
 
     def similar(self, episode: Episode, limit: int = 3) -> list[Episode]:
-        """Episodes from other podcasts with the closest duration."""
-        candidate_ids = {e.id for e in self.episodes.values() if e.podcast_id != episode.podcast_id}
-        candidates = [self.episodes[candidate_id] for candidate_id in candidate_ids]
-        candidates.sort(key=lambda e: abs(e.duration_minutes - episode.duration_minutes))
+        """Episodes from other podcasts with the closest duration; ties are broken by id so the order is stable."""
+        candidates = [e for e in self.episodes.values() if e.podcast_id != episode.podcast_id]
+        candidates.sort(key=lambda e: (abs(e.duration_minutes - episode.duration_minutes), e.id))
         return candidates[:limit]
 
     def stats(self) -> Stats:
