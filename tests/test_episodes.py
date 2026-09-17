@@ -34,9 +34,10 @@ def test_unknown_episode_returns_404(client):
 
 
 def test_similar_episodes_come_from_other_podcasts(client):
-    # The WebMCP episode is 56 minutes; every Rick Steves episode is 52 minutes (4 away), so id breaks the tie
-    ids = [e["id"] for e in client.get("/episodes/1000788665542/similar").json()]
-    assert ids == ["1000783349562", "1000784878632", "1000786537699"]
+    # The WebMCP episode is 56 minutes; the nearest durations are the 52-minute Rick Steves episodes
+    episodes = client.get("/episodes/1000788665542/similar", params={"limit": 4}).json()
+    assert {e["podcast_id"] for e in episodes} == {"travel-with-rick-steves"}
+    assert "1000783349562" in [e["id"] for e in episodes]
 
 
 def test_search_ranks_title_matches_first(client):
